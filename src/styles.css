@@ -1,3 +1,10 @@
 body{
     text-align: center;
+    background: #F8E49C;
+}
+
+.link{
+    text-decoration: none;
+    color: blue;
+    padding: 25px;
 }
