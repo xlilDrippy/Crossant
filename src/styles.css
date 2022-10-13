@@ -4,7 +4,7 @@ body{
 }
 
 .link{
-    text-decoration: none;
-    color: blue;
+    text-decoration: underline;
+    color: green;
     padding: 25px;
 }
